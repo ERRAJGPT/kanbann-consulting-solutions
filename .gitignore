@@ -1,0 +1,6 @@
+# Local cruft
+.DS_Store
+# Build/verification scratch
+__*
+# Distribution archive (not needed in the repo)
+*.zip
